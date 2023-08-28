@@ -1,5 +1,3 @@
-def c1(c):
-    print(c)
 
 a = "String 1"
 b = "String 2"
@@ -17,6 +15,4 @@ v2 = {'John': 'Doctor', 'Jane': 'California Girl', 'Jim': 'Classified'}
 
 for v7, v8 in v2.items():
     print (f"{v7} is a {v8}")
-
-c2 = 'Charlie'
-c1(c2)
+    
